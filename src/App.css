@@ -3,9 +3,16 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 40px;
   pointer-events: none;
 }
+
+.map-container {
+  height: 400px;
+}
+
+
+/* 
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -35,4 +42,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
